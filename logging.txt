@@ -1,0 +1,17 @@
+Your Conversation Log:
+You: hi my name is smit
+AI: Hi Smit! Nice to meet you.
+
+How can I help you today?
+
+You: good eve
+AI: Good evening, Smit! I hope you're having a good one.
+
+You: tell me a joke
+AI: Okay, here's one for you:
+
+Why don't scientists trust atoms?
+
+Because they make up everything!
+
+End Of Conversation
